@@ -6,7 +6,7 @@
 
 ![Me](Me.JPG)
 
-[Education](#Education) [TechnicalSkills](#Technical Skills)
+[Education](#Education) [Technical Skills](#Skills)
 
 ## _Introduction_
 
@@ -22,7 +22,7 @@ print("My favourite programming language is C++")
 
 :calendar: 09/2021 - ongoing 
 
-## _Technical Skills_
+## _Skills_
 - JAVA 
 - C++
 - C
