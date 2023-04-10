@@ -6,7 +6,7 @@
 
 ![Me](Me.JPG)
 
-[Education](#Education) [TechnicalSkills](#Technical_Skills)
+[Education](#Education) [TechnicalSkills](#Technical Skills)
 
 ## _Introduction_
 
