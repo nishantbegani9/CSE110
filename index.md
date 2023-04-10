@@ -1,6 +1,6 @@
 # **Nishant Begani**
 
-> :telephone_receiver: (424)946-5024 :email: nbegani@ucsd.edu 
+> :telephone_receiver: (424)946-5024 :email:nbegani@ucsd.edu 
 
 [LinkedIn Profile](linkedin.com/in/nishant-begani-5450181ab)
 
